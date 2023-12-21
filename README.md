@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YashG21
 - 👀 I’m interested in Wed development
-- 🌱 I’m currently learning Html And css
+- 🌱 I’m currently learning CSS
 - 📫 How to reach me yashgawade21092004@gmail.com
 
 <!---
